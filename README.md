@@ -4,6 +4,7 @@ Curso na Alura - JavaScript para Web: Crie páginas dinâmicas
 </h1>
 
 <div align="center">
+
 ## 🔨 Funcionalidades do projeto
 
 O MIDI tem um teclado digitial com 9 botões, cada botão reproduzirá o som de cada parte do instrumento musical.
